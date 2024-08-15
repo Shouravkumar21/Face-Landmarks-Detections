@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+If any problem facing while runing then use thise commands
+
+1.set NODE_OPTIONS=--openssl-legacy-provider
+2.set NODE_OPTIONS=--openssl-legacy-provider
+
+3.npm start
